@@ -7,7 +7,6 @@ import './Clock.css';
 const Clock = () => {
 
     const newYear = new Date('2021-12-31T23:59:59').getTime();
-    console.log(newYear);
     let [state, changeState]  = useState({time: new Date().getTime()}); 
     useEffect(()=> {
         const timer = setTimeout(() => {
@@ -21,7 +20,7 @@ const Clock = () => {
 
             <article className="Clock-Font vh-100 dt w-100">
 
-                <div class="dtc v-mid tc ph3 ph4-l">
+                <div className="dtc v-mid tc ph3 ph4-l">
                     <h3 style={{fontSize:"80px"}}>Time till 2022</h3>
                     <h1>
                         <strong style={{fontSize:'100px'}}>
