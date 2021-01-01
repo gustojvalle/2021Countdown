@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/2021Countdown/static/css/main.2052ba24.chunk.css",
-    "main.js": "/2021Countdown/static/js/main.e04a7927.chunk.js",
-    "main.js.map": "/2021Countdown/static/js/main.e04a7927.chunk.js.map",
+    "main.js": "/2021Countdown/static/js/main.82b9ace7.chunk.js",
+    "main.js.map": "/2021Countdown/static/js/main.82b9ace7.chunk.js.map",
     "runtime-main.js": "/2021Countdown/static/js/runtime-main.dfec739e.js",
     "runtime-main.js.map": "/2021Countdown/static/js/runtime-main.dfec739e.js.map",
     "static/css/2.31461e4f.chunk.css": "/2021Countdown/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.7ebbc449.chunk.js",
     "static/css/main.2052ba24.chunk.css",
-    "static/js/main.e04a7927.chunk.js"
+    "static/js/main.82b9ace7.chunk.js"
   ]
 }
